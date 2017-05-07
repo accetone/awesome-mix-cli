@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const shuffle = require('playlist-shuffle');
 
 const from = extract(process.argv, '-from');
