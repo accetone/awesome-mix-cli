@@ -1,17 +1,17 @@
 {
-  "name": "playlist-shuffle-cli",
+  "name": "awesome-mix-cli",
   "author": "Nikita Tsyhanenko",
   "description": "Command line tool to make your own awesome mix",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/accetone/playlist-shuffle-cli"
+    "url": "https://github.com/accetone/awesome-mix-cli"
   },
   "bin": {
-    "playlist-shuffle": "./index.js"
+    "awesome-mix": "./index.js"
   },
   "dependencies": {
-    "playlist-shuffle": "^1.0.2"
+    "awesome-mix": "^1.0.0"
   }
 }

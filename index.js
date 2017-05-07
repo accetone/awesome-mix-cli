@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const shuffle = require('playlist-shuffle');
+const mix = require('awesome-mix');
 
 const from = extract(process.argv, '-from');
 const to = extract(process.argv, '-to')[0];
@@ -15,7 +15,7 @@ if (!to) {
 	return;
 }
 
-shuffle(from, to)
+mix(from, to)
 	.then(() => console.log('Your mix is ready. Lets rock!'));
 
 function extract(arr, key) {

@@ -1,6 +1,6 @@
-# Playlist Shuffle CLI
+# Awesome Mix CLI
 
-![npm](https://img.shields.io/npm/v/playlist-shuffle.svg)
+![npm](https://img.shields.io/npm/v/awesome-mix-cli.svg)
 ![license](https://img.shields.io/badge/license-MIT-orange.svg)  
   
 Is your player shuffle or random mode frustrating you?  
@@ -8,12 +8,14 @@ Is it repeating the same song over and over again?
   
 We have a solution:
 1. turn off the shuffle mode in your player
-2. use shuffle tool to compose your own awesome playlist
+2. use awesome mix tool to compose your own playlist
 3. move brand new playlist to your player
 4. ...
 5. PROFIT!
 
-By making this simple actions you will enjoy music in non-repetitive manner.
+By making this simple actions you will enjoy music in non-repetitive manner.  
+  
+Based on (awesome mix)[https://github.com/accetone/awesome-mix] module.
 
 ### Usage
 
@@ -23,10 +25,10 @@ Install via npm:
 npm install -g playlist-shuffle-cli
 ```
 
-Use shuffle script from terminal:
+Use awesome mix script from terminal:
 
 ```bash
-playlist-shuffle -from /Users/peter/mix-vol1 /Users/peter/mix-vol2 -to /Users/peter/awesome-mix
+awesome-mix -from /Users/peter/mix-vol1 /Users/peter/mix-vol2 -to /Users/peter/awesome-mix
 ```
 
 ### Contribution
