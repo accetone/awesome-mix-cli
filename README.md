@@ -22,7 +22,7 @@ Based on [awesome mix](https://github.com/accetone/awesome-mix) module.
 Install via npm:
 
 ```bash
-npm install -g playlist-shuffle-cli
+npm install -g awesome-mix-cli
 ```
 
 Use awesome mix script from terminal:
