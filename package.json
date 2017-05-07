@@ -1,7 +1,8 @@
 {
   "name": "playlist-shuffle-cli",
   "author": "Nikita Tsyhanenko",
-  "version": "1.0.5",
+  "description": "Command line tool to make your own awesome mix",
+  "version": "1.0.6",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -11,6 +12,6 @@
     "playlist-shuffle": "./index.js"
   },
   "dependencies": {
-    "playlist-shuffle": "^1.0.1"
+    "playlist-shuffle": "^1.0.2"
   }
 }
