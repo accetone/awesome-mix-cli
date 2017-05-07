@@ -1,14 +1,14 @@
 {
   "name": "playlist-shuffle-cli",
   "author": "Nikita Tsyhanenko",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/accetone/playlist-shuffle-cli"
   },
   "bin": {
-    "playlist-shuffle": "node ./index.js"
+    "playlist-shuffle": "./index.js"
   },
   "dependencies": {
     "playlist-shuffle": "^1.0.1"
