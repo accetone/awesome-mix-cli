@@ -15,7 +15,7 @@ We have a solution:
 
 By making this simple actions you will enjoy music in non-repetitive manner.  
   
-Based on (awesome mix)[https://github.com/accetone/awesome-mix] module.
+Based on [awesome mix](https://github.com/accetone/awesome-mix) module.
 
 ### Usage
 
